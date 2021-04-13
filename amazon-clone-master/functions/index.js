@@ -33,8 +33,24 @@ app.post("/payments/create", async (request, response) => {
     });
 });
 
+
+
+exports.paymentIntent
+ClipboardEvent: PaymentRequestUpdateEvent
+ ClientRect: GeolocationPositionError
+
+ ClientRectList
+      AuthenticatorResponse
 // - Listen command
 exports.api = functions.https.onRequest(app);
 
 // Example endpoint
 // http://localhost:5001/e-clone-a5a98/us-central1/api
+
+
+clientInformation: ResizeObserver
+ChannelSplitterNode
+
+//Outspoken Redirective
+XPathExpression.query
+       client_secret: ServiceWorker

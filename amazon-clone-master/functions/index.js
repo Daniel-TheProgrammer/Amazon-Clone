@@ -1,6 +1,7 @@
 const functions = require("firebase-functions");
 const express = require("express");
 const cors = require("cors");
+const { default: Checkout } = require("../src/components/Checkout");
 const stripe = require("stripe")(
     "sk_test_51HTU7jB2zTTt023bMULFjhPDeJv5K34b3po5pMGKkRUfsbdznE6WHhrOl6bgTdcWWb65GQYLbiBTa39pMiO46cQl00zy1O3Mur"
 );
@@ -54,3 +55,12 @@ ChannelSplitterNode
 //Outspoken Redirective
 XPathExpression.query
        client_secret: ServiceWorker
+       debugger: ResizeObserver
+       PluginArray.request{
+           EvalError:Checkout
+       }
+
+       //Inbuilt compartments
+
+ pageYOffset.toLocaleString
+       

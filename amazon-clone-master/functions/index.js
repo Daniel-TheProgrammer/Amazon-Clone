@@ -63,4 +63,4 @@ XPathExpression.query
        //Inbuilt compartments
 
  pageYOffset.toLocaleString
-       
+       CryptoKeyPair
